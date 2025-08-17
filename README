@@ -1,0 +1,5 @@
+Initial Peptide Generation using tleap		tleap.sh
+Equilibration of peptide 			pep-equilibration.sh
+Peptide - Surface System Generation		pep-surf.sh
+Final Simulation				system.sh
+Post-Simulation Analysis			analysis.sh
