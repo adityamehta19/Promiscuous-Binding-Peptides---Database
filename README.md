@@ -7,3 +7,7 @@ Peptides that selectively bind to inorganic surfaces play a crucial role in nano
 **This repository contains:**
 1. A README and a small note on how to use the script and which script belongs to which step of the MD Simulation.
 2. All the required scripts including tleap.sh, pep-equilibration.sh, pep-surf.sh, system.sh and analysis.sh
+3. All the python scripts written for performing the analysis including 
+
+**NOTE**
+pep-surface.sh file contains TCL script also which can used in VMD using the command: vmd -dispdev text -e <file_name.tcl>
