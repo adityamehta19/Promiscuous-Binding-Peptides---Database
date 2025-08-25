@@ -12,3 +12,6 @@ Peptides that selectively bind to inorganic surfaces play a crucial role in nano
 
 **NOTE**
 pep-surface.sh file contains TCL script also which can used in VMD using the command: vmd -dispdev text -e <file_name.tcl>
+
+**NOTE**
+The bash scripts written by us are according to our folders made for our convience. Any other replicating our method should look at that.
